@@ -1,0 +1,14 @@
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\bin\Debug\net8.0\Variables&Constantes.exe
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\bin\Debug\net8.0\Variables&Constantes.deps.json
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\bin\Debug\net8.0\Variables&Constantes.runtimeconfig.json
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\bin\Debug\net8.0\Variables&Constantes.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\bin\Debug\net8.0\Variables&Constantes.pdb
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\obj\Debug\net8.0\Variables&Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\obj\Debug\net8.0\Variables&Constantes.AssemblyInfoInputs.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\obj\Debug\net8.0\Variables&Constantes.AssemblyInfo.cs
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\obj\Debug\net8.0\Variables&Constantes.csproj.CoreCompileInputs.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\obj\Debug\net8.0\Variables&Constantes.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\obj\Debug\net8.0\refint\Variables&Constantes.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\obj\Debug\net8.0\Variables&Constantes.pdb
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\obj\Debug\net8.0\Variables&Constantes.genruntimeconfig.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Variables&Constantes\Variables&Constantes\obj\Debug\net8.0\ref\Variables&Constantes.dll
