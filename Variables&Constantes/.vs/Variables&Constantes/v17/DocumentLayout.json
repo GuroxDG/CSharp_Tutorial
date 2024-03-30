@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\Variables\u0026Constantes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8F9F76D-3C64-496C-93D7-1B52908E5AEF}|Variables\u0026Constantes\\Variables\u0026Constantes.csproj|c:\\users\\gurox\\documents\\estudios\\c#\\csharp_desde_o\\variables\u0026constantes\\variables\u0026constantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8F9F76D-3C64-496C-93D7-1B52908E5AEF}|Variables\u0026Constantes\\Variables\u0026Constantes.csproj|solutionrelative:variables\u0026constantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8F9F76D-3C64-496C-93D7-1B52908E5AEF}|Variables\u0026Constantes\\Variables\u0026Constantes.csproj|c:\\users\\gurox\\documents\\estudios\\c#\\csharp_desde_o\\variables\u0026constantes\\variables\u0026constantes\\variables_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9F76D-3C64-496C-93D7-1B52908E5AEF}|Variables\u0026Constantes\\Variables\u0026Constantes.csproj|solutionrelative:variables\u0026constantes\\variables_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\Variables\u0026Constantes\\Variables\u0026Constantes\\Program.cs",
-              "RelativeDocumentMoniker": "Variables\u0026Constantes\\Program.cs",
-              "ToolTip": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\Variables\u0026Constantes\\Variables\u0026Constantes\\Program.cs",
-              "RelativeToolTip": "Variables\u0026Constantes\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Title": "Variables_Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\Variables\u0026Constantes\\Variables\u0026Constantes\\Variables_Constantes.cs",
+              "RelativeDocumentMoniker": "Variables\u0026Constantes\\Variables_Constantes.cs",
+              "ToolTip": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\Variables\u0026Constantes\\Variables\u0026Constantes\\Variables_Constantes.cs",
+              "RelativeToolTip": "Variables\u0026Constantes\\Variables_Constantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T05:52:09.141Z",
               "EditorCaption": ""

@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// Variables
+
 string firstName = "John";
 string lastName = "Doe";
 
@@ -34,3 +36,12 @@ c = 3;
 Console.WriteLine(a + b + c);
 
 Console.WriteLine(Math.PI);
+
+const string ConfigName = "This config will never change";
+
+Console.WriteLine(ConfigName);
+
+const int Months = 10;
+
+// Months = 2; Error
+Console.WriteLine(Months);

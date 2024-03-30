@@ -1,0 +1,14 @@
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\bin\Debug\net8.0\Conversiones.exe
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\bin\Debug\net8.0\Conversiones.deps.json
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\bin\Debug\net8.0\Conversiones.runtimeconfig.json
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\bin\Debug\net8.0\Conversiones.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\bin\Debug\net8.0\Conversiones.pdb
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\obj\Debug\net8.0\Conversiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\obj\Debug\net8.0\Conversiones.AssemblyInfoInputs.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\obj\Debug\net8.0\Conversiones.AssemblyInfo.cs
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\obj\Debug\net8.0\Conversiones.csproj.CoreCompileInputs.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\obj\Debug\net8.0\Conversiones.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\obj\Debug\net8.0\refint\Conversiones.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\obj\Debug\net8.0\Conversiones.pdb
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\obj\Debug\net8.0\Conversiones.genruntimeconfig.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Conversiones\Conversiones\obj\Debug\net8.0\ref\Conversiones.dll
