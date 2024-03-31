@@ -1,0 +1,14 @@
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\bin\Debug\net8.0\Operaciones.exe
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\bin\Debug\net8.0\Operaciones.deps.json
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\bin\Debug\net8.0\Operaciones.runtimeconfig.json
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\bin\Debug\net8.0\Operaciones.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\bin\Debug\net8.0\Operaciones.pdb
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\obj\Debug\net8.0\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\obj\Debug\net8.0\Operaciones.AssemblyInfoInputs.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\obj\Debug\net8.0\Operaciones.AssemblyInfo.cs
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\obj\Debug\net8.0\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\obj\Debug\net8.0\Operaciones.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\obj\Debug\net8.0\refint\Operaciones.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\obj\Debug\net8.0\Operaciones.pdb
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\obj\Debug\net8.0\Operaciones.genruntimeconfig.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\Operaciones\Operaciones\obj\Debug\net8.0\ref\Operaciones.dll
