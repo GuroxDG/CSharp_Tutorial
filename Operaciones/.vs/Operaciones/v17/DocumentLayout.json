@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{63FC728F-1687-4CBF-9785-8E349D49D22D}|Operaciones\\Operaciones.csproj|solutionrelative:operaciones\\comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63FC728F-1687-4CBF-9785-8E349D49D22D}|Operaciones\\Operaciones.csproj|c:\\users\\gurox\\documents\\estudios\\c#\\csharp_desde_o\\operaciones\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63FC728F-1687-4CBF-9785-8E349D49D22D}|Operaciones\\Operaciones.csproj|C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\Operaciones\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63FC728F-1687-4CBF-9785-8E349D49D22D}|Operaciones\\Operaciones.csproj|solutionrelative:operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Operaciones\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T08:05:21.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T08:05:21.238Z"
             }
           ]
         }
