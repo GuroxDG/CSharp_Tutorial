@@ -1,0 +1,15 @@
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\bin\Debug\net8.0\TipoDeDatosNoPrimitivos.exe
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\bin\Debug\net8.0\TipoDeDatosNoPrimitivos.deps.json
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\bin\Debug\net8.0\TipoDeDatosNoPrimitivos.runtimeconfig.json
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\bin\Debug\net8.0\TipoDeDatosNoPrimitivos.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\bin\Debug\net8.0\TipoDeDatosNoPrimitivos.pdb
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\TipoDeDatosNoPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\TipoDeDatosNoPrimitivos.AssemblyInfoInputs.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\TipoDeDatosNoPrimitivos.AssemblyInfo.cs
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\TipoDeDatosNoPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\TipoDeDatosNoPrimitivos.sourcelink.json
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\TipoDeDatosNoPrimitivos.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\refint\TipoDeDatosNoPrimitivos.dll
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\TipoDeDatosNoPrimitivos.pdb
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\TipoDeDatosNoPrimitivos.genruntimeconfig.cache
+C:\Users\gurox\Documents\Estudios\C#\csharp_desde_o\TipoDeDatosNoPrimitivos\TipoDeDatosNoPrimitivos\obj\Debug\net8.0\ref\TipoDeDatosNoPrimitivos.dll
