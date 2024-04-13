@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B2C0C94-0E64-4C29-8642-E49D9DE7BFED}|TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos.csproj|c:\\users\\gurox\\documents\\estudios\\c#\\csharp_desde_o\\tipodedatosnoprimitivos\\tipodedatosnoprimitivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B2C0C94-0E64-4C29-8642-E49D9DE7BFED}|TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos.csproj|solutionrelative:tipodedatosnoprimitivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B2C0C94-0E64-4C29-8642-E49D9DE7BFED}|TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos.csproj|c:\\users\\gurox\\documents\\estudios\\c#\\csharp_desde_o\\tipodedatosnoprimitivos\\tipodedatosnoprimitivos\\clasestatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C0C94-0E64-4C29-8642-E49D9DE7BFED}|TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos.csproj|solutionrelative:tipodedatosnoprimitivos\\clasestatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C0C94-0E64-4C29-8642-E49D9DE7BFED}|TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos.csproj|C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\tipodedatosnoprimitivos\\clasepartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C0C94-0E64-4C29-8642-E49D9DE7BFED}|TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos.csproj|solutionrelative:tipodedatosnoprimitivos\\clasepartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C0C94-0E64-4C29-8642-E49D9DE7BFED}|TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos.csproj|c:\\users\\gurox\\documents\\estudios\\c#\\csharp_desde_o\\tipodedatosnoprimitivos\\tipodedatosnoprimitivos\\tipoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C0C94-0E64-4C29-8642-E49D9DE7BFED}|TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos.csproj|solutionrelative:tipodedatosnoprimitivos\\tipoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos\\TipoEnum.cs",
+              "RelativeDocumentMoniker": "TipoDeDatosNoPrimitivos\\TipoEnum.cs",
+              "ToolTip": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos\\TipoEnum.cs",
+              "RelativeToolTip": "TipoDeDatosNoPrimitivos\\TipoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:27:25.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClasePartial.cs",
+              "DocumentMoniker": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos\\ClasePartial.cs",
+              "RelativeDocumentMoniker": "TipoDeDatosNoPrimitivos\\ClasePartial.cs",
+              "ToolTip": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos\\ClasePartial.cs",
+              "RelativeToolTip": "TipoDeDatosNoPrimitivos\\ClasePartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T04:25:32.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos\\Program.cs",
-              "RelativeDocumentMoniker": "TipoDeDatosNoPrimitivos\\Program.cs",
-              "ToolTip": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos\\Program.cs",
-              "RelativeToolTip": "TipoDeDatosNoPrimitivos\\Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAcwBUAAAAFAAAA",
+              "Title": "ClaseStatic.cs",
+              "DocumentMoniker": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos\\ClaseStatic.cs",
+              "RelativeDocumentMoniker": "TipoDeDatosNoPrimitivos\\ClaseStatic.cs",
+              "ToolTip": "C:\\Users\\gurox\\Documents\\Estudios\\C#\\csharp_desde_o\\TipoDeDatosNoPrimitivos\\TipoDeDatosNoPrimitivos\\ClaseStatic.cs",
+              "RelativeToolTip": "TipoDeDatosNoPrimitivos\\ClaseStatic.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAswHgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T02:13:05.53Z",
               "EditorCaption": ""
